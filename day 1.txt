@@ -1,0 +1,17 @@
+#day 1 03/23/2020
+	it's 3:37PM
+	im starting at chapter 1:Unity fundamentals - page 1
+	it's 4:52PM
+	im reading importing assets
+	it's 6:30PM
+	i made a coin collecting project(game) following the chapter 1 instruction
+	i had a screenshot of it in the folder
+	what i have learned so far are:
+		importing assets
+		scene
+		transformations(move, scale, rotate objects) and navigation(camera control?)
+		building scene(adding structure, mesh texture to the scene? idk)
+		lighting and sky
+		play testing and the game tab
+		
+		sum: the basic stuffs, keybuttons.. projects..
