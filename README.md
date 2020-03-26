@@ -12,13 +12,13 @@
 	
         • A. Layers
 	    
-		• B. Tags
+        • B. Tags
    
         • C. Components
 		
         • D. Integers
 		
-		• Answer: B
+        • Answer: B
 		
     Q2. You can search the hierarchy for objects that contain specific component types by using a prefix of...
 	
@@ -30,7 +30,7 @@
 		
         • D. D
 		
-		• Answer: B
+        • Answer: B
 		
     Q3. Static variables are always...
 	
@@ -42,7 +42,7 @@
 		
         • D. The same
 		
-		• Answer: A
+        • Answer: A
 		
     Q4. The main color for a material is defined by the...
 	
@@ -54,7 +54,7 @@
    
         • D. Specular Channel
 		
-		• Answer: C
+        • Answer: C
 		
     Q5. By default, when you run a Unity game, you will first see...
 	
