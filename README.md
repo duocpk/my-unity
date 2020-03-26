@@ -1,14 +1,14 @@
 #26/03/2020
 
 ##WHAT DID
-	read chapter 2
-	book Q&A
-	Test your knowledge
-	Q1. You can easily find GameObjects in code by using…
-		• A. Layers
-	  ->• B. Tags
-		• C. Components
-		• D. Integers
+	read chapter 2\s
+	book Q&A\s
+	Test your knowledge\s
+	Q1. You can easily find GameObjects in code by using…\s
+		• A. Layers\s
+	  ->• B. Tags\s
+		• C. Components\s
+		• D. Integers\s
 	Q2. You can search the hierarchy for objects that contain specific component types by
 		using a prefix of...
 		• A. C
