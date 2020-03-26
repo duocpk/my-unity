@@ -7,32 +7,34 @@
     • book Q&A
 	
     • Test your knowledge
-	
+
     Q1. You can easily find GameObjects in code by using…
 	
         • A. Layers
-		
-   This • B. Tags
+	    
+		• B. Tags
    
         • C. Components
 		
         • D. Integers
 		
-    Q2. You can search the hierarchy for objects that contain specific component types by
-	
-    using a prefix of...
+		- Answer: B
+		
+    Q2. You can search the hierarchy for objects that contain specific component types by using a prefix of...
 	
         • A. C
 		
-   This • B. T
+        • B. T
    
         • C. W
 		
         • D. D
 		
+		- Answer: B
+		
     Q3. Static variables are always...
 	
-   This • A. Shared across all instances of a class
+        • A. Shared across all instances of a class
    
         • B. Public
 		
@@ -40,15 +42,19 @@
 		
         • D. The same
 		
+		- Answer: A
+		
     Q4. The main color for a material is defined by the...
 	
         • A. Normal Channel
 		
         • B. Detail Channel
 		
-   This • C. Albedo Channel
+        • C. Albedo Channel
    
         • D. Specular Channel
+		
+		- Answer: C
 		
     Q5. By default, when you run a Unity game, you will first see...
 	
@@ -58,7 +64,9 @@
 		
         • C. A Splash Screen
 		
-   This • D. The Resolution Config Dialog
+        • D. The Resolution Config Dialog
+   
+        - Answer: D
    
 ##WHAT LEARNED
 
