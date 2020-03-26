@@ -1,7 +1,7 @@
-#<26/03/2020>
+#26/03/2020
 
 ##WHAT DID
-	i read chapter 2
+	read chapter 2
 	book Q&A
 	Test your knowledge
 	Q1. You can easily find GameObjects in code by using…
