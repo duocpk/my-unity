@@ -6,7 +6,7 @@
 	Test your knowledge
 	Q1. You can easily find GameObjects in code by using…
 		• A. Layers
-		->• B. Tags
+	  ->• B. Tags
 		• C. Components
 		• D. Integers
 	Q2. You can search the hierarchy for objects that contain specific component types by
@@ -16,7 +16,7 @@
 		• C. W
 		• D. D
 	Q3. Static variables are always...
-	  ->• A. Shared across all instances of a class
+	  • A. Shared across all instances of a class
 		• B. Public
 		• C. Reset on every new frame
 		• D. The same
@@ -32,11 +32,11 @@
 											 else ->• D. The Resolution Config Dialog
 										
 ##WHAT LEARNED
-	- new code from unity
-	- new hotkeys
-	- prefabable objects
-	- build project to executeable application
+	new code from unity
+	new hotkeys
+	prefabable objects
+	build project to executeable application
 ##WHAT WILL DO
- 	- chapter 3
+ 	chapter 3
 ##NOTE
-	- i will put the game folder in the same folder
+	i will put the game folder in the same folder
