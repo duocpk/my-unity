@@ -1,3 +1,18 @@
+# 28/03/2020
+
+## WHAT DID
+
+- Read chapter 3 (from the start of the chapter to Bound locking)
+- Develop new Project(game) named Void Space
+- commit new Build to Builds branch
+
+## WHAT LEARNED
+
+- New code from unity
+
+## WHAT WILL DO
+- finish chapter 3
+
 # 26/03/2020
 
 ## WHAT DID
