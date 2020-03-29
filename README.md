@@ -1,17 +1,50 @@
+# 29/03/2020
+
+## WHAT DID
+
+- Read chapter 3(Bounds locking)
+- Recreate new Void Space project (old project got lost)
+- Add Background(Space background, Planets..)
+- Add BondsLock script(map boundary)
+- Update PlayerController script
+
+## WHAT LEARNED
+
+- New code from unity engine
++ Camera.main.ScreenToWorldPoint
++ Input.GetAxis
++ Input.mousePosition
+
+## WHAT WILL DO
+
+- Complete PlayerController script
+
+## NOTE TO MYSELF
+
+- Vector3 MousePosWorld = Camera.main.ScreenToWorldPoint(new Vector3(Input.mousePosition.x, Input.mousePosition.y, 0.0f));
+- MousePosWorld = new Vector3(MousePosWorld.x, 0.0f, MousePosWorld.z);
+- Vector3 LookDirection = MousePosWorld - ThisTransform.position;
+- ThisTransform.localRotation = Quaternion.LookRotation(LookDirection.normalized,Vector3.up);
+- Use to rotate Object to Player mouse position
+- Input.GetAxis is input from keybroad(Vert == W/S, Horz == A/D)
+- Input.mousePosition == mouse position (child == .x && .y && .z).
+- ThisBody.AddForce where ThisBody represent the object
+- AddForce will add magnetic force to the object coresponding given 3d vector
+
 # 28/03/2020
 
 ## WHAT DID
 
-- Read chapter 3 (from the start of the chapter to Bound locking)
+- Read chapter 3 (from the start of the chapter to Bounds locking)
 - Develop new Project(game) named Void Space
-- commit new Build to Builds branch
+- Commit new Build to Builds branch
 
 ## WHAT LEARNED
 
 - New code from unity
 
 ## WHAT WILL DO
-- finish chapter 3
+- Finish chapter 3
 
 # 26/03/2020
 
