@@ -1,3 +1,19 @@
+# 30/03/2020
+
+## WHAT DID
+
+- Research AddForce and how unity physics work
+- Finish customize PlayerController script(make it work)
+
+## WHAT LEARNED
+
+- Unity physics
+- Add force
+
+## WHAT WILL DO
+
+- Finish chapter 3
+
 # 29/03/2020
 
 ## WHAT DID
@@ -11,8 +27,8 @@
 ## WHAT LEARNED
 
 - New code from unity engine
-+ Camera.main.ScreenToWorldPoint
-+ Input.GetAxis
+- Camera.main.ScreenToWorldPoint
+ Input.GetAxis
 + Input.mousePosition
 
 ## WHAT WILL DO
