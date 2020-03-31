@@ -1,3 +1,26 @@
+# 31/03/2020
+
+## WHAT DID
+
+- Read Health
+- Read Death and particles
+- Add Health
+- Add Particles on Death
+
+## WHAT LEARNED
+
+- Health
+- Death and particles
+- New Unity codes
+- SendMessage
+- SendMessageOptions.DontRequireReceiver(if 0 receiver then nothing happen)
+- Instantiate(provoke given object)
+- 
+
+## WHAT WILL DO
+
+- Finish chapter 3
+
 # 30/03/2020
 
 ## WHAT DID
