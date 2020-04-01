@@ -1,3 +1,15 @@
+# 01/04/2020
+
+## WHAT DID
+
+- watch multiple explaination videos on youtube, tutorials
+
+## WHAT LEARNED
+
+- How to create Animation objects
+- Animation stuff
+- Pixel arts
+
 # 31/03/2020
 
 ## WHAT DID
@@ -15,7 +27,6 @@
 - SendMessage
 - SendMessageOptions.DontRequireReceiver(if 0 receiver then nothing happen)
 - Instantiate(provoke given object)
-- 
 
 ## WHAT WILL DO
 
