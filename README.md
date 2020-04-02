@@ -1,3 +1,21 @@
+# 02/04/2020
+
+## WHAT DID
+
+- Read Chapter 3
+- Add Spawner(enemy spawner)
+- Finish Chapter 3
+
+## WHAT LEARNED
+
+- New code from Unity Engine
+- Instantiate(make a clone of given oject)
+- FindObjectWithTag(Tag) (as the name describe it return the oject hold given tag)
+
+## WHAT WILL DO
+
+- Chapter 4
+
 # 01/04/2020
 
 ## WHAT DID
