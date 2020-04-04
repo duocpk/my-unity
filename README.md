@@ -1,3 +1,23 @@
+# 04/04/2020
+
+## WHAT DID
+
+- Add Spawner cap
+- Add Enemy will follow Player
+- Add Enemy will stop if already in certain range from the player(so they wont run player down)
+- Read Chapter 4
+- Add Energy Beam(Player projectile)
+- Add new Scripts
+
+## WHAT LEARNED
+
+- New code from Unity Engine
+- Distance (Vector3.Distance(vector a, vector b) return distance between 2 object position)
+- Better understand on navigating around objects using tag and reference
+## WHAT WILL DO
+
+- Finish Chapter 4
+
 # 02/04/2020
 
 ## WHAT DID
