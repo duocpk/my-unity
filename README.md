@@ -8,6 +8,7 @@
 - Read Chapter 4
 - Add Energy Beam(Player projectile)
 - Add new Scripts
+- Make the camera follow player smoothly
 
 ## WHAT LEARNED
 
