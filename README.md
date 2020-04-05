@@ -1,3 +1,28 @@
+# 05/04/2020
+
+## WHAT DID
+
+- Add custom player's gun (which shoot energy beam)
+- Make Enerby Beam spawn when player press leftclick and travel like a bullet
+- Make Enerby Beam do damage and destroy it self upon impact or went offscreen(destroy the object itself)
+- Add a child to Enemy that hold Detector collison to separeate from Enemy hitbox(both are collison so enemy hit detection collison will do damage to enemy)
+- Read Chapter 4
+- Many tweaks and fixes
+
+## WHAT LEARNED
+
+- New Code from Unity Engine
+
+## WHAT WILL DO
+
+- Add Enemy's gun(projectile)
+- Read Chapter 4
+- Finish Chapter 4
+
+## NOTE TO MYSELF
+
+- use DestroyObject to destroy game object NOT destroy
+
 # 04/04/2020
 
 ## WHAT DID
