@@ -1,3 +1,17 @@
+# 07/04/2020
+
+## WHAT DID
+
+- Add new projectile
+- Add Enemy ability to fire projectile
+
+## WHAT LEARNED
+
+## WHAT WILL DO
+
+- Read Chapter 4
+- Finish Chapter 4
+
 # 05/04/2020
 
 ## WHAT DID
