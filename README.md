@@ -1,3 +1,23 @@
+# 09/04/2020
+
+## WHAT DID
+
+- Make a Score UI
+- Do Q%A
+- Q&A answer: 1.B 2.B 3.A 4.A
+- Finish chapter 4
+- Read chapter 5
+- Add new 2D Platformer Project 
+
+## WHAT LEARNED
+
+- User Input config
+- Making UI
+
+## WHAT WILL DO
+
+- read Chapter 5
+
 # 07/04/2020
 
 ## WHAT DID
