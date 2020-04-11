@@ -1,3 +1,22 @@
+# 11/04/2020
+
+# WHAT DID
+
+- Read chapter 5
+- Add Background/Foreground
+- Add Enviroment physics/ platforms
+- Add Player sprites and body parts
+
+## WHAT LEARNED
+
+- Multi sprites
+- 2D collisons, 2D rigidbody
+
+## WHAT WILL DO
+
+- Add player movement script
+- Finish chapter 5
+
 # 09/04/2020
 
 ## WHAT DID
