@@ -1,6 +1,31 @@
+# 12/04/2020
+
+## WHAT DID
+
+- Read chapter 5
+- Add PlayerControl script
+- Investigate PlayerControl script
+- Optimize project
+- Do Q%A
+- Q%A answer: 1.B 2.B 3.A 4.A
+- Finish chapter 5
+
+## WHAT LEARNED
+
+- New code from Unity Engine
+- FACEDIRECTION
+- Sprite packing
+
+## WHAT WILL DO
+
+- read chapter 6
+
+## WHAT WILL DO
+
+
 # 11/04/2020
 
-# WHAT DID
+## WHAT DID
 
 - Read chapter 5
 - Add Background/Foreground
