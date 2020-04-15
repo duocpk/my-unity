@@ -1,3 +1,23 @@
+# 15/04/2020
+
+## WHAT DID
+
+- Fix PlayerControl script(character jump doesn't work)
+- Read chapter 6
+- Add LevitatingPlatform script
+- Investigate and understand LevitatingPlatform script
+- Add scene 2
+
+## WHAT LEARNED
+
+- New code from UE
+- Mathf.pingpong(float a, float b) return value that move back and forth between 2 value;
+
+## WHAT WILL DO
+
+- Add scene 3
+- Read chapter 6
+ 
 # 12/04/2020
 
 ## WHAT DID
