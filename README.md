@@ -1,3 +1,17 @@
+# 17/04/2020
+
+## WHAT DID
+
+- read chapter 6
+- Fix many problems
+- add Health
+- add KillZone
+
+## WHAT LEARNED
+## WHAT WILL DO
+
+- finish chapter 6
+
 # 15/04/2020
 
 ## WHAT DID
