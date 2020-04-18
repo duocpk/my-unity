@@ -1,3 +1,25 @@
+# 18/04/2020
+
+## WHAT DID
+
+- read chapter 6
+- fall down the pit kill the player
+- add HealthBar UI
+- add HealthBarUI script
+- investigate HealthBarUI script
+
+## WHAT LEARNED
+
+- Mathf.Clamp(float value, float min, float max) (asign this to a value to restrict it in range of min, max value
+- float value = Mathf.Clamp(value, -10, 10); <- value will restricted between -10 and 10 if value = 11; then value will be 10.
+- Mathf.MoveTowards(float current, float target, float maxDelta) (Moves a value current towards target)
+- maxDelta -> The maximum change that should be applied to the value.
+- Time.deltaTime(return the time between each frame)
+
+## WHAT WILL DO
+
+- finish chapter 6
+
 # 17/04/2020
 
 ## WHAT DID
@@ -8,6 +30,7 @@
 - add KillZone
 
 ## WHAT LEARNED
+
 ## WHAT WILL DO
 
 - finish chapter 6
