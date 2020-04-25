@@ -1,3 +1,17 @@
+# 25/04/2020
+
+## WHAT DID
+
+- Made a clone of a game called FlappyBird
+
+## WHAT LEARNED
+
+- Many things
+
+## WHAT WILL DO
+
+-
+
 # 18/04/2020
 
 ## WHAT DID
